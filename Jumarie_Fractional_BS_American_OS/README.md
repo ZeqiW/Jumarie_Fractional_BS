@@ -6,7 +6,7 @@ I use Vanilla Put Option as an example, and set the boundary value to satisfy Am
 
 In this file,
 
-FracAm_Put_OS.m is the main function solving American Put Option under Wyss Fractional BS formula with Operator Splitting method.
+FracAm_Put_OS.m is the main function solving American Put Option under Jumarie Fractional BS formula with Operator Splitting method.
 
 Other .m files are used in the main function.
 
