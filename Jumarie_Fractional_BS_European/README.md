@@ -6,7 +6,7 @@ I use Vanilla Put Option as an example, and set the boundary value to satisfy Eu
 
 In this file,
 
-FracEu_Put_Be.m is the main function solving European Put Option under Wyss Fractional BS formula.
+FracEu_Put_Be.m is the main function solving European Put Option under Jumarie Fractional BS formula.
 
 Other .m files are used in the main function.
 
